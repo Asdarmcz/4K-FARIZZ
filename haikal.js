@@ -4527,6 +4527,7 @@ Ketik > m.chat ( di group dulu )
 ┣❏frizzsantetgc  1237891xxxx@g.us|10|10s
 ┣❏cataloggc 1237891xxxx@g.us|10|10s
 ┗━━⊱[°F A R I Z Z°]
+┗━━⊱[°F A R I Z Z°]
 ┏━━⊱[ BUG ]
 ┣❏💀 [ jumlah ]
 ┣❏👽 [ jumlah ]

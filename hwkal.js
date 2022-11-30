@@ -31,8 +31,8 @@ global.botname = 'F A R I Z Z-MODDERZ' //ubah jadi nama bot mu, note tanda ' gau
 global.footer = '4K-F A R I Z Z ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['17152866152'] // ubah aja pake nomor lu
-global.premium = ['17152866152'] // ubah aja pake nomor lu
+global.owner = ['6285696961139'] // ubah aja pake nomor lu
+global.premium = ['6285696961139'] // ubah aja pake nomor lu
 global.packname = 'IG:aku_bukan_farizz' // ubah aja
 global.ownerr = ['4K F A R I Z Z ダ '] // ubaha aja
 global.author = '✔️ ' //ubah aja
